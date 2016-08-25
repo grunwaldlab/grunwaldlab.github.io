@@ -3,4 +3,3 @@
 1. [Reproducible Science in R](http://grunwaldlab.github.io/Reproducible-science-in-R/)
 1. [Population Genetics in R](~/Population_Genetics_in_R/)
 1. [Introduction to MetacodeR](https://grunwaldlab.github.io/metacoder_documentation/)
-1. more
