@@ -1,5 +1,5 @@
 # Grunwald lab primers
 
 1. [Reproducible Science in R](http://grunwaldlab.github.io/Reproducible-science-in-R/)
-1. [Population Genetics in R](~/Population_Genetics_in_R/)
+1. [Population Genetics in R](http://grunwaldlab.github.io/Population_Genetics_in_R/)
 1. [Documentation for graphing heat trees using MetacodeR](https://grunwaldlab.github.io/metacoder_documentation/)
