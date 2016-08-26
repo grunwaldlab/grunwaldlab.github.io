@@ -13,4 +13,8 @@ The documentation below was prepared for worshops and R pacakges we wrote:
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"></a> and was produced in the [Gr&uuml;nwald lab](http://grunwaldlab.cgrb.oregonstate.edu/) with awesome folks.
 
+<a href="https://twitter.com/PhytophthoraLab" class="twitter-follow-button" data-show-count="false">
+Follow &#64;PhytophthoraLab
+</a> 
+
 ---
