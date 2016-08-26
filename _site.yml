@@ -1,0 +1,16 @@
+name: "Grunwald lab"
+navbar:
+  title: "Grunwald lab"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+      
+output:
+  html_document:
+    toc: false
+    toc_float:
+      collapsed: false
+    toc_depth: 1
+    theme: readable  ## Choose from http://bootswatch.com/
