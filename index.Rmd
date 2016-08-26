@@ -2,13 +2,15 @@
 title: "Hacking biology"
 ---
 
+The documentation below was prepared for worshops and R pacakges we wrote:
+
 1. [Reproducible Science in R](http://grunwaldlab.github.io/Reproducible-science-in-R/)
 1. [Population Genetics in R](http://grunwaldlab.github.io/Population_Genetics_in_R/)
 1. [Documentation for graphing heat trees using MetacodeR](https://grunwaldlab.github.io/metacoder_documentation/)
 
 ---
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"></a> and was produced in the [Gr&uuml;nwald lab](http://grunwaldlab.cgrb.oregonstate.edu/) with awesome folks.
 
 ---
