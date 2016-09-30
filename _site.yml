@@ -2,8 +2,10 @@ name: "Grunwald lab"
 navbar:
   title: "Grunwald lab"
   left:
-    - text: "Home"
+    - text: "Grunwald lab"
       href: index.html
+    - text: "Resources"
+      href: resources.html
     - text: "About"
       href: about.html
       
