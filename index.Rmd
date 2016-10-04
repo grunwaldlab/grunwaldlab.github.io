@@ -1,5 +1,5 @@
 ---
-title: "Hacking biology"
+title: "Computanional biology tools"
 ---
 
 The documentation below was prepared for worshops and R pacakges we wrote:

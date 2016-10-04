@@ -4,11 +4,9 @@ navbar:
   left:
     - text: "Grunwald lab"
       href: index.html
-    - text: "Resources"
-      href: resources.html
     - text: "About"
       href: about.html
-      
+
 output:
   html_document:
     toc: false

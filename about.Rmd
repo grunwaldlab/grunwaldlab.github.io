@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-Probably not quite hacking, but we had absolute fun getting this done nonetheless. We hope you enjoy  the shared resources.
+We hope you enjoy the shared resources developed by the awesome people in our lab.
 
 ---
 
