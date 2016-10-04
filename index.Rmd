@@ -1,5 +1,5 @@
 ---
-title: "Computanional biology tools"
+title: "Computational biology tools"
 ---
 
 The documentation below was prepared for worshops and R pacakges we wrote:
@@ -12,7 +12,7 @@ The documentation below was prepared for worshops and R pacakges we wrote:
 
 |             | |
 | ----------- | ----
-| Twitter     | [@PhytophthoraLab](https://twitter.com/phytophthoralab)
+| Twitter     | [\@PhytophthoraLab](https://twitter.com/phytophthoralab)
 | Web         | [https://grunwaldlab.github.io/](https://grunwaldlab.github.io/)
 | Github      | [lab](https://github.com/grunwaldlab)
 | Github      | [grunwald](https://github.com/grunwald)
